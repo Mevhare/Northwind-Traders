@@ -9,6 +9,7 @@ As part of your role, you've been tasked with building a top-level KPI dashboard
 - Product performance
 - Key customers
 - Shipping costs
+
 The dashboard should be built to evolve and accommodate new data over time, but you've been encouraged by your manager to have insights & recommendations ready to share with the VPs. 
 
 # About The Data Set
