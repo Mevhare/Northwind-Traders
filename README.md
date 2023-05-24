@@ -20,6 +20,8 @@ Sales & order data for Northwind Traders, a fictitious gourmet food supplier, in
 - Made the first row headers.
 
 ## Order Details
-- Created a OrderPrice column which is the total price of an order after discount.
+- Created OrderPrice which is the price multiplied by the quantity of each order.
+- Created DiscountPrice which is the amount of discount on each order.
+- Created a NetOrderPrice column which is the total price of an order after discount.
 
 # Dashboard
