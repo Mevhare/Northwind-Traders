@@ -16,9 +16,9 @@ The dashboard should be built to evolve and accommodate new data over time, but 
 The dashboard consists of three pages; sales, orders and shipping, each showing different different KPIs such as Year-Over-Year difference %, Month-Over-Month difference %, Average Order Value (AOV), Average Delivery Time and Late Deliveries. 
 
 There are also has a filter enable users look at data between the months from July 2013 to May 2015.
-![Northwind1]()
-![Northwind2]()
-![Northwind3]()
+![Northwind1](https://github.com/Mevhare/Northwind-Traders/blob/main/Images/NorthWind_1.png)
+![Northwind2](https://github.com/Mevhare/Northwind-Traders/blob/main/Images/NorthWind_2.png)
+![Northwind3](https://github.com/Mevhare/Northwind-Traders/blob/main/Images/NorthWind_3.png)
 
 
 # Insights
