@@ -24,7 +24,7 @@ Below are images of the dashboard;
 ![Northwind3](https://github.com/Mevhare/Northwind-Traders/blob/main/Images/NorthWind_3.png)
 
 
-[Dashboard Link]()
+[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNWE3MzgxNjUtMjkwMC00M2UxLThiMGMtN2E5ODYyYzVhNWQ0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
 
 
 # Insights
