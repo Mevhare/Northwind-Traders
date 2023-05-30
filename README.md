@@ -12,16 +12,15 @@ As part of your role, you've been tasked with building a top-level KPI dashboard
 
 The dashboard should be built to evolve and accommodate new data over time, but you've been encouraged by your manager to have insights & recommendations ready to share with the VPs. 
 
-# About The Data Set
-Sales & order data for Northwind Traders, a fictitious gourmet food supplier, including information on customers, products, orders, shippers, and employees.
+# Presentation
+The dashboard consists of three pages; sales, orders and shipping, each showing different different KPIs such as Year-Over-Year difference %, Month-Over-Month difference %, Average Order Value (AOV), Average Delivery Time and Late Deliveries. 
 
-# Data Cleaning and Transformation
-## Customers
-- Made the first row headers.
+There are also has a filter enable users look at data between the months from July 2013 to May 2015.
+![Northwind1]()
+![Northwind2]()
+![Northwind3]()
 
-## Order Details
-- Created OrderPrice which is the price multiplied by the quantity of each order.
-- Created DiscountPrice which is the amount of discount on each order.
-- Created a NetOrderPrice column which is the total price of an order after discount.
 
-# Dashboard
+# Insights
+
+
