@@ -20,12 +20,8 @@ There is also a filter that enables users look at data between the months from J
 Below are images of the dashboard;
 
 ![Northwind1](https://github.com/Mevhare/Northwind-Traders/blob/main/Images/NorthWind_1.png)
-![Northwind2](https://github.com/Mevhare/Northwind-Traders/blob/main/Images/NorthWind_2.png)
-![Northwind3](https://github.com/Mevhare/Northwind-Traders/blob/main/Images/NorthWind_3.png)
-
 
 [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNWE3MzgxNjUtMjkwMC00M2UxLThiMGMtN2E5ODYyYzVhNWQ0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
-
 
 # Insights
 - The sales, order volumes, and customer base have exhibited a consistent upward trajectory since December 2014, leading to a noticeable escalation in freight expenses.
